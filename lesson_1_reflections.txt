@@ -1,0 +1,9 @@
+Using diff showed only the lines that were
+changed between versions. This cut down on
+the amount of scanning I had to do to find
+the actual issue.
+
+By having the history of a file, I can see
+all the changes that have been made, and 
+track the success of that file against the 
+various changes.
